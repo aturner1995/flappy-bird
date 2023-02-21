@@ -14,6 +14,7 @@ The remote site is hosted on GitHub Pages
 https://aturner1995.github.io/flappy-bird/
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/120421650/220367638-7daba4fb-0f7d-46aa-a931-63b0859e16de.png)
 
 
 
